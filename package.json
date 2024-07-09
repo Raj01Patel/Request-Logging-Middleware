@@ -1,0 +1,19 @@
+{
+  "name": "request-logging-middleware",
+  "version": "1.0.0",
+  "description": "Request Logging Middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Middleware",
+    "Morgan"
+  ],
+  "author": "Raj Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  }
+}
